@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nares10
 
-- 😄 Pronouns: He/His
+
+  
 
 
 <!---
